@@ -1,4 +1,4 @@
-# Task 05 – Inventory Log Maintenance System
+# Inventory Log Maintenance System
 
 This task was assigned to me to practice file handling in C++, especially working with CSV files, updating records, and keeping data consistent using temporary files.
 
