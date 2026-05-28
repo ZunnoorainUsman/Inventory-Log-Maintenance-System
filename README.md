@@ -28,5 +28,3 @@ The program shows a menu with these options:
 - Use a temporary file for modifications and deletions  
 - Validate that Quantity and Price are numbers  
 - Show proper messages for invalid input or missing records  
-
-This task was similar to the Student Record Manager problem (code already on the portal), so I took help from there.
